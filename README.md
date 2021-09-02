@@ -1,2 +1,2 @@
-# hello-world
-just another respository
+# C Language
+include<stdio.h> lol
